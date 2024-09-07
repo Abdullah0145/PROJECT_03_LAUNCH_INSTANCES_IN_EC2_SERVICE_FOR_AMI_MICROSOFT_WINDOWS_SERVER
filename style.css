@@ -1,0 +1,15 @@
+span {
+    color: darkmagenta;
+}
+
+span#id1 {
+    color: chocolate;
+}
+
+span#id2 {
+    color: darkblue;
+}
+
+span#id3 {
+    color: darkcyan;
+}
